@@ -82,10 +82,6 @@
 #include "SecTVOutService.h"
 #endif
 
-#ifdef QCOM_BSP
-#include <display_config.h>
-#endif
-
 #define DISPLAY_COUNT       1
 
 /*
