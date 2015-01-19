@@ -23,8 +23,8 @@
 #include <hardware/sensors.h>
 
 #include "LegacyGravitySensor.h"
-#include "SensorDevice.h"
-#include "SensorFusion.h"
+#include "../SensorDevice.h"
+#include "../SensorFusion.h"
 
 namespace android {
 // ---------------------------------------------------------------------------
